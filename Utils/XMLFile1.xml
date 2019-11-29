@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tests>
+  <login no="1">
+    <username>jatestid1</username>
+    <password>pwd1pwd1pwd1</password>
+  </login>
+  <login no="2">
+    <username>jatestid2</username>
+    <password>pwd2pwd2pwd2</password>
+  </login>
+ 
+</tests>
