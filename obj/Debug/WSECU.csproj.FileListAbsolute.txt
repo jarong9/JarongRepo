@@ -1,0 +1,16 @@
+C:\Users\Jarong\source\repos\WSECU\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Jarong\source\repos\WSECU\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Jarong\source\repos\WSECU\bin\Debug\nunit.engine.dll
+C:\Users\Jarong\source\repos\WSECU\bin\Debug\nunit.engine.api.dll
+C:\Users\Jarong\source\repos\WSECU\bin\Debug\WSECU.pdb
+C:\Users\Jarong\source\repos\WSECU\bin\Debug\nunit.framework.dll
+C:\Users\Jarong\source\repos\WSECU\bin\Debug\WebDriver.dll
+C:\Users\Jarong\source\repos\WSECU\bin\Debug\nunit.framework.pdb
+C:\Users\Jarong\source\repos\WSECU\bin\Debug\nunit.framework.xml
+C:\Users\Jarong\source\repos\WSECU\bin\Debug\WebDriver.xml
+C:\Users\Jarong\source\repos\WSECU\obj\Debug\WSECU.csprojAssemblyReference.cache
+C:\Users\Jarong\source\repos\WSECU\obj\Debug\WSECU.csproj.CopyComplete
+C:\Users\Jarong\source\repos\WSECU\obj\Debug\WSECU.pdb
+C:\Users\Jarong\source\repos\WSECU\bin\Debug\WSECU.dll.config
+C:\Users\Jarong\source\repos\WSECU\bin\Debug\WSECU.dll
+C:\Users\Jarong\source\repos\WSECU\obj\Debug\WSECU.dll
