@@ -19,8 +19,7 @@ namespace WSECU
         public IEnumerable<string> LoadXMLdata()
         {
             var filename = "XMLFile1.xml";
-            //var currentDirectory = Directory.GetCurrentDirectory();
-            var currentDirectory = "C:\\Users\\Jarong\\source\\repos\\WSECU\\Utils";
+            var currentDirectory = AppDomain.CurrentDomain.BaseDirectory + @"..\..\Utils\";
             var Filepath = Path.Combine(currentDirectory, filename);
             
             XElement doc = XElement.Load(Filepath);

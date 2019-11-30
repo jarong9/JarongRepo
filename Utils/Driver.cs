@@ -13,7 +13,7 @@ namespace WSECU
     class Driver
     {
         public static IWebDriver browserWin;
-        private static string driverpath = Directory.GetCurrentDirectory();
+        private static string driverpath = AppDomain.CurrentDomain.BaseDirectory+ @"..\..\Utils";
 
         public static void initIEBrowser()
         {
